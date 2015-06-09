@@ -2,7 +2,7 @@
 
 ### Setup ###
 
-* (Get scmutils)[http://groups.csail.mit.edu/mac/users/gjs/6946/linux-install.htm] or use the included build.
+* [Get scmutils](http://groups.csail.mit.edu/mac/users/gjs/6946/linux-install.htm) or use the included build.
 * Extract files: `tar -xf scmutils-20140302-x86-64-gnu-linux.tar`
 
 Depending on your platform, you may have to build from source.
