@@ -1,0 +1,9 @@
+#!/bin/bash
+
+SCMUTILS_ROOT=scmutils/mit-scheme
+
+SCHEME="${SCMUTILS_ROOT}/bin/mit-scheme --library ${SCMUTILS_ROOT}/lib"
+CMD="${SCHEME} --load $1"
+exec ${CMD}
+
+#mv -t ../bin *.com
