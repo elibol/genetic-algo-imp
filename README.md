@@ -1,5 +1,7 @@
 # Genetic Algo Solution to Knapsack Problem #
 
+Although this repository contains executable code, it is primarily intent for educational purposes.
+
 ### Setup ###
 
 * [Get scmutils](http://groups.csail.mit.edu/mac/users/gjs/6946/linux-install.htm) or use the included build.
