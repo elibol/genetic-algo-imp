@@ -1,6 +1,6 @@
 # Genetic Algo Solution to Knapsack Problem #
 
-Although this repository contains executable code, it is primarily intended for educational purposes.
+The contents of this repository are provided for educational purposes.
 
 ### Setup ###
 
