@@ -1,4 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Author: Melih Elibol
+;;
 ;; Description: A genetic algorithm for generating
 ;; and sorting a search space of knapsack solutions.
 ;;
